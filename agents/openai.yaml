@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feishu Doc Fetcher"
+  short_description: "Fetch Feishu docs into Markdown"
+  default_prompt: "Use $feishu-doc-fetcher to fetch a Feishu docx URL into local Markdown."
