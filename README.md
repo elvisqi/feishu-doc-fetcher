@@ -1,4 +1,4 @@
-# Feishu Doc Fetcher
+# Feishu Doc Fetcher Skill
 
 Feishu Doc Fetcher 是一个面向 AI 编程代理的 Skill，也可以作为独立 Python 脚本使用。它通过飞书开放平台 API 读取飞书 docx 文档，把正文、标题、列表、代码块、表格、图片和附件保存到本地 Markdown，方便 Claude Code、Codex 或人类继续阅读和处理。
 
